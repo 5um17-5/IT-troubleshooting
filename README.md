@@ -9,4 +9,10 @@ IT troubleshooting
    ```powershell
    Rename-Computer -NewName "pc_new_name" -DomainCredential Domain\Admin -Restart
    ```
+   ```powershell
+   netdom renamecomputer WIN-I4568s.aviation.inc /newname MG56-01 /userd:aviation\DomainUserName /passwordd:P@ssw0rd
+   ```
+   ```powershell
+   netdom renamecomputer WIN-I4568s.aviation.inc /newname MG56-01 /userd:aviation\DomainUserName /passwordd:P@ssw0rd /reboot
+   ```
 5. 
