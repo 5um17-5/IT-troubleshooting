@@ -1,6 +1,6 @@
-Waiting on feature updates to push Windows 11?
+## Waiting on feature updates to push Windows 11?
 
-This is very slow process from unrelaible upgrades via Intune or GPO
+#### This is very slow process from unrelaible upgrades via Intune or GPO
 
 Windows 10 -------------> Windows 11
 
